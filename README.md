@@ -7,9 +7,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="42%" alt="Current Location View" />
+  <img src="screenshots/Screenshot 2026-11-23 225144.png" width="42%" alt="Current Location View" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="screenshots/screenshot2.png" width="42%" alt="Parked Car Location" />
+  <img src="screenshots/Screenshot 2026-11-23 225020.png" width="42%" alt="Parked Car Location" />
 </p>
 
 > *(Replace `screenshots/screenshot1.png` and `screenshots/screenshot2.png` with your 2 screenshot image files in the `screenshots/` directory)*
