@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Car Park Tracker</string>
+    <string name="im_parked_here">I’m parked here</string>
+    <string name="parked_car_title">Parked Car</string>
+    <string name="location_permission_title">Location Permission Required</string>
+    <string name="location_permission_rationale">Location permission is required to determine your current location and mark where your car is parked on the map.</string>
+    <string name="location_settings_title">Location Permission Turned Off</string>
+    <string name="location_settings_message">Location access is blocked, so the app cannot show your current location or save where you parked. Turn on location permission for this app in Settings.</string>
+    <string name="continue_label">OK</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="open_settings_label">Open settings</string>
+    <string name="car_parked_toast">Car location saved!</string>
+    <string name="permission_denied_toast">Location permission was denied.</string>
+    <string name="location_unavailable_toast">Could not get your current location. Please try again.</string>
+</resources>
